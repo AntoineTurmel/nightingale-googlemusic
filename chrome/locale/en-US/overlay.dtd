@@ -1,0 +1,9 @@
+<!ENTITY google-music.helloworld.label "Do HelloWorld">
+<!ENTITY google-music.helloworld.accesskey "H">
+
+<!ENTITY google-music.pane.label "This is a Display Pane">
+<!ENTITY google-music.pane.button "Learn More">
+
+
+<!ENTITY google-music.servicepane.label "This is a Main View">
+<!ENTITY google-music.servicepane.link  "Learn More about Service Pane">

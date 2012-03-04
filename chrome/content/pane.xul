@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="chrome://global/skin" type="text/css"?>
+<?xml-stylesheet href="chrome://songbird/content/bindings/bindings.css" type="text/css"?>
+<?xml-stylesheet href="chrome://songbird/skin/songbird.css" type="text/css" title="Skin"?>
+
+<?xml-stylesheet href="chrome://google-music/skin/pane.css" type="text/css"?>
+
+<!DOCTYPE page SYSTEM "chrome://google-music/locale/overlay.dtd">
+<page id="google-music-pane" title="&google-music.pane.label;"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="pane.js"/>
+
+  <vbox flex="1">
+    <description value="&google-music.pane.label;" />
+    <button id="action-button" label="&google-music.pane.button;" />
+  </vbox>
+</page>
